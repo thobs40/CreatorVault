@@ -1,0 +1,8 @@
+{
+  "name": "CreatorVault - AI-Powered DRM",
+  "description": "A blockchain-based Digital Rights Management system featuring AI Negotiator Agents for autonomous licensing and fair market value tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
